@@ -7,6 +7,7 @@ En esta práctica podremos implementar un semáforo simple utilizando un Arduino
 ### Materiales
 * 1 x Arduino Uno
 * 3 x LED (rojo, amarillo y verde)
+* 3 x Resistencia
 * 1 x Protoboard
 * Cables Dupont o puentes para protoboard
 
