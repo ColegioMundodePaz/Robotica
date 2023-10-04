@@ -11,10 +11,8 @@ Esta es una práctica para principiantes que ayuda a entender cómo funcionan lo
 * Cables Dupont o puentes para protoboard
 
 ### Instrucciones
-1. Armar el circuito como se muestra en el Layout.
+1. Armar el circuito como se muestra en el siguiente Layout.
+![Layout](layout.png)
 2. Descargar el archivo ***P01_Blink.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y descomprimirlo.
 3. Abrir el código ***P01_Blink.ino*** en el IDE de Arduino.
 4. Revisar que el código sea correcto y cargarlo al Arduino.
-
-### Layout
-![Layout](layout.png)
