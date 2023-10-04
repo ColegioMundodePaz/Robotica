@@ -15,4 +15,4 @@ Esta es una práctica para principiantes que ayuda a entender cómo funcionan lo
 ![Layout](layout.png)
 2. Descargar el archivo ***P01_Blink.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y descomprimirlo.
 3. Abrir el código ***P01_Blink.ino*** en el IDE de Arduino.
-4. Revisar que el código sea correcto y cargarlo al Arduino.
+4. Revisar que el código sea correcto y cargarlo al Arduino. 
