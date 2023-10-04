@@ -12,8 +12,9 @@ Esta es una práctica para principiantes que ayuda a entender cómo funcionan lo
 
 ### Instrucciones
 1. Armar el circuito como se muestra en el Layout.
-2. Descargar el archivo ***P01_Blink.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y abrir el código ***P01_Blink.ino*** en el IDE de Arduino.
-3. Revisar que el código sea correcto y cargarlo al Arduino.
+2. Descargar el archivo ***P01_Blink.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y descomprimirlo.
+3. Abrir el código ***P01_Blink.ino*** en el IDE de Arduino.
+4. Revisar que el código sea correcto y cargarlo al Arduino.
 
 ### Layout
 ![Layout](layout.png)
