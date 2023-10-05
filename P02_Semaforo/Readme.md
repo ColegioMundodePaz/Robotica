@@ -17,6 +17,3 @@ En esta práctica podremos implementar un semáforo simple utilizando un Arduino
 2. Descargar el archivo ***P02_Semaforo.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y descomprimirlo.
 3. Abrir el código ***P02_Semaforo.ino*** en el IDE de Arduino.
 4. Revisar que el código sea correcto y cargarlo al Arduino.
-5. Abrir el monitor serial del IDE de Arduino para ver las lecturas del sensor.
-
-**NO** desconectar el cable USB de la computadora ni del Arduino Uno.
