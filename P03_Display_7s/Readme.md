@@ -8,10 +8,10 @@ Un display de 7 segmentos es un dispositivo de visualización que utiliza siete 
 | Cantidad | Descripción |
 | :---: | --- |
 | 1 | Arduino Uno |
-| 1 | Display de 7 Segmentos cátodo común |
+| 1 | Display de 7 Segmentos (cátodo común) |
 | 1 | Resistencia |
 | 1 | Protoboard |
-| 2 | Cables Dupont o puentes para protoboard M-M |
+| 8 | Cables Dupont o puentes para protoboard M-M |
 
 ### Instrucciones
 1. Armar el circuito como se muestra en el siguiente Layout.
@@ -19,3 +19,12 @@ Un display de 7 segmentos es un dispositivo de visualización que utiliza siete 
 2. Descargar el archivo ***P03_Display_7s.zip*** del apartado [***Releases***](https://github.com/ColegioMundodePaz/Robotica/releases) y descomprimirlo.
 3. Abrir el código ***P03_Display_7s.ino*** en el IDE de Arduino.
 4. Revisar que el código sea correcto y cargarlo al Arduino.
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
