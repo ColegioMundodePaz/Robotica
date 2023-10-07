@@ -5,11 +5,13 @@
 En esta práctica podremos implementar un semáforo simple utilizando un Arduino y una protoboard. Utilizaremos tres LEDs para representar las luces de un semáforo típico: rojo, amarillo y verde.
 
 ### Materiales
-* 1 x Arduino Uno
-* 3 x LED (rojo, amarillo y verde)
-* 3 x Resistencia
-* 1 x Protoboard
-* Cables Dupont o puentes para protoboard
+| Cantidad | Descripción |
+| :---: | --- |
+| 1 | Arduino Uno |
+| 3 | Diodo LED |
+| 3 | Resistencia |
+| 1 | Protoboard |
+| 4 | Cables Dupont M-M |
 
 ### Instrucciones
 1. Armar el circuito como se muestra en el siguiente Layout.
