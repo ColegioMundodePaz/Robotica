@@ -4,11 +4,13 @@
 Esta es una práctica para principiantes que ayuda a entender cómo funcionan los bucles (***setup*** y ***loop***) y cómo se pueden controlar los pines de salida. Este es un ejemplo básico de cómo realizar un parpadeo simple con un LED conectado a un pin digital en Arduino.
 
 ### Materiales
-* 1 x Arduino Uno
-* 1 x Diodo LED
-* 1 x Resistencia
-* 1 x Protoboard 
-* Cables Dupont o puentes para protoboard
+| Cantidad | Descripción |
+| :---: | --- |
+| 1 | Arduino Uno |
+| 1 | Diodo LED |
+| 1 | Resistencia |
+| 1 | Protoboard |
+| 2 | Cables Dupont o puentes para protoboard M-M |
 
 ### Instrucciones
 1. Armar el circuito como se muestra en el siguiente Layout.
