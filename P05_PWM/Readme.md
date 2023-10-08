@@ -1,5 +1,5 @@
 
-# Practica 01 - PWM 
+# Practica 05 - PWM 
 
 ### Introducción
 Práctica en la que aprenderemos a utilizar los pines PWM, regulando la intensidad de un diodo led.
